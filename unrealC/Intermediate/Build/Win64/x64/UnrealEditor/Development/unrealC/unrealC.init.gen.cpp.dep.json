@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\archivo\\docuemntos\\github\\unrealc\\unrealc\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealc\\uht\\unrealc.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\archivo\\docuemntos\\github\\unrealc\\unrealc\\intermediate\\build\\win64\\x64\\unrealceditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\archivo\\docuemntos\\github\\unrealc\\unrealc\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealc\\definitions.unrealc.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
