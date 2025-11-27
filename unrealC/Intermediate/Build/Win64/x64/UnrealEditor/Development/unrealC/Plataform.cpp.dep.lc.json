@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\archivo\\docuemntos\\github\\unrealc\\unrealc\\source\\unrealc\\plataform.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\archivo\\docuemntos\\github\\unrealc\\unrealc\\intermediate\\build\\win64\\x64\\unrealceditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\archivo\\docuemntos\\github\\unrealc\\unrealc\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealc\\definitions.unrealc.h",
+            "d:\\archivo\\docuemntos\\github\\unrealc\\unrealc\\source\\unrealc\\plataform.h",
+            "d:\\archivo\\docuemntos\\github\\unrealc\\unrealc\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealc\\uht\\plataform.generated.h",
+            "d:\\programas\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "d:\\programas\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\programas\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\programas\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
