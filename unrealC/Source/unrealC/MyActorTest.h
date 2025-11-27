@@ -6,6 +6,7 @@
 #include "GameFramework/Actor.h"
 #include "MyActorTest.generated.h"
 
+
 UCLASS()
 class UNREALC_API AMyActorTest : public AActor
 {
@@ -23,4 +24,22 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+
+	//Ejempolo de variable de instancia pública
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "MyActorTest")
+	float MyFloatVariable;
+	
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "MyActorTest")
+	int edad;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "MyActorTest")
+	bool esInstructor;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "MyActorTest")
+	FString nombre;
+
+
+	//ejemplo de función pública
+	UFUNCTION(BlueprintCallable, Category = "MyActorTest")
+	void DemosstrateeFundamentals();
 };
