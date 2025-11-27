@@ -42,12 +42,12 @@ void AMyActorTest::DemosstrateeFundamentals()
 		// Imprime en consola el nombre y la edad del instructor
 		//UE_LOG(LogTemp, Warning, TEXT("El instructor %s tiene %d años."), *nombre, edad);
 		// Imprime el pantalla /viewport
-		GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Yellow,TEXT(" %s es intructor  y tiene %d años."));
+		GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Yellow,TEXT("  es intructor "));
 	}
 	else
 	{
 		//UE_LOG(LogTemp, Warning, TEXT("%s no es instructor y tiene %d años"), *nombre, edad);
-		GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Yellow, TEXT(" %s no es intructor  y tiene %d años."));
+		GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Yellow, TEXT("  no es intructor"));
 	}
 
 	//bucle o Ciclos

@@ -33,6 +33,18 @@
     <Filter Include="Source\unrealC">
       <UniqueIdentifier>{CF162716-8A75-3B50-808E-FA19A728605A}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\unrealC\Car.cpp">
+      <Filter>Source\unrealC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\unrealC\Car.h">
+      <Filter>Source\unrealC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\unrealC\CarModel.cpp">
+      <Filter>Source\unrealC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\unrealC\CarModel.h">
+      <Filter>Source\unrealC</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\unrealC\MyActorTest.cpp">
       <Filter>Source\unrealC</Filter>
     </ClCompile>
@@ -46,6 +58,12 @@
       <Filter>Source\unrealC</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\unrealC\unrealC.h">
+      <Filter>Source\unrealC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\unrealC\Vehicle.cpp">
+      <Filter>Source\unrealC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\unrealC\Vehicle.h">
       <Filter>Source\unrealC</Filter>
     </ClCompile>
   </ItemGroup>
