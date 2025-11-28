@@ -57,6 +57,12 @@
     <ClCompile Include="..\..\Source\unrealC\Plataform.h">
       <Filter>Source\unrealC</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\unrealC\Temperature.cpp">
+      <Filter>Source\unrealC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\unrealC\Temperature.h">
+      <Filter>Source\unrealC</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\unrealC\TransformModifier.cpp">
       <Filter>Source\unrealC</Filter>
     </ClCompile>

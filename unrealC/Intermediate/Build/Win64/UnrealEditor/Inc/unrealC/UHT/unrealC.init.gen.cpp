@@ -17,13 +17,13 @@ void EmptyLinkFunctionForGeneratedCodeunrealC_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x97F6E046,
-				0xCB4071A3,
+				0x5BCA8E5C,
+				0x26C9BE44,
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_unrealC.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_unrealC.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_unrealC(Z_Construct_UPackage__Script_unrealC, TEXT("/Script/unrealC"), Z_Registration_Info_UPackage__Script_unrealC, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x97F6E046, 0xCB4071A3));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_unrealC(Z_Construct_UPackage__Script_unrealC, TEXT("/Script/unrealC"), Z_Registration_Info_UPackage__Script_unrealC, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x5BCA8E5C, 0x26C9BE44));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
